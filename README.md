@@ -1,4 +1,4 @@
-# Predators-Pray 
+# Predators-Prey 
 The aim of this project is to study the Predator-Pray behaviors.
 
 ### Simulation Example
